@@ -80,8 +80,11 @@ Priority: Workspace > Local > Bundled
 - [Weather](#weather) (5)
 - [Security & Passwords](#security--passwords) (3)
 
----
 
+
+<a href="https://github.com/VoltAgent/voltagent">
+<img width="1390" height="296" alt="social" src="https://github.com/user-attachments/assets/4c40affa-8e20-443a-9ec5-1abb6679b170" />
+</a>
 
 ## Web & Frontend Development
 
