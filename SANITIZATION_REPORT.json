@@ -1,0 +1,31 @@
+{
+  "total_skills": 3020,
+  "suspicious_skills": 9,
+  "by_risk": {
+    "low": 3011,
+    "medium": 5,
+    "high": 4
+  },
+  "by_category": {
+    "bot": 194,
+    "crypto": 17,
+    "dev": 145,
+    "general": 2413,
+    "media": 196,
+    "security": 87
+  },
+  "critical_risk": [],
+  "high_risk": [
+    "camoufox",
+    "stealthy-auto-browse",
+    "aluvia-web-proxy",
+    "aluvia-web-unblock"
+  ],
+  "medium_risk": [
+    "kesslerio-stealth-browser",
+    "camoufox-stealth",
+    "camoufox-stealth-browser",
+    "stealth-browser",
+    "vpn-rotate-skill"
+  ]
+}

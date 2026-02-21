@@ -1,0 +1,74 @@
+[
+  {
+    "name": "kesslerio-stealth-browser",
+    "url": "https://github.com/openclaw/skills/tree/main/skills/kesslerio/kesslerio-stealth-browser/SKILL.md",
+    "description": "Anti-bot browser automation",
+    "category": "Alternative",
+    "risk": "medium",
+    "risk_reason": "Matches medium-risk pattern: stealth.*browser"
+  },
+  {
+    "name": "camoufox",
+    "url": "https://github.com/openclaw/skills/tree/main/skills/goodgoodjm/camoufox/SKILL.md",
+    "description": "Anti-detect browser automation using Camoufox (Firefox-based).",
+    "category": "Alternative",
+    "risk": "high",
+    "risk_reason": "Matches high-risk pattern: anti.*detect.*browser"
+  },
+  {
+    "name": "camoufox-stealth",
+    "url": "https://github.com/openclaw/skills/tree/main/skills/kesslerio/camoufox-stealth/SKILL.md",
+    "description": "C++ level anti-bot browser automation using Camoufox",
+    "category": "Alternative",
+    "risk": "medium",
+    "risk_reason": "Matches medium-risk pattern: stealth.*browser"
+  },
+  {
+    "name": "camoufox-stealth-browser",
+    "url": "https://github.com/openclaw/skills/tree/main/skills/kesslerio/camoufox-stealth-browser/SKILL.md",
+    "description": "C++ level anti-bot browser automation",
+    "category": "Alternative",
+    "risk": "medium",
+    "risk_reason": "Matches medium-risk pattern: stealth.*browser"
+  },
+  {
+    "name": "stealth-browser",
+    "url": "https://github.com/openclaw/skills/tree/main/skills/mayuqi-crypto/stealth-browser/SKILL.md",
+    "description": "Ultimate stealth browser automation",
+    "category": "Alternative",
+    "risk": "medium",
+    "risk_reason": "Matches medium-risk pattern: stealth.*browser"
+  },
+  {
+    "name": "stealthy-auto-browse",
+    "url": "https://github.com/openclaw/skills/tree/main/skills/psyb0t/stealthy-auto-browse/SKILL.md",
+    "description": "Control a stealthy browser that evades bot detection",
+    "category": "Alternative",
+    "risk": "high",
+    "risk_reason": "Matches high-risk pattern: evad.*detect"
+  },
+  {
+    "name": "aluvia-web-proxy",
+    "url": "https://github.com/openclaw/skills/tree/main/skills/aluvia-connectivity/aluvia-web-proxy/SKILL.md",
+    "description": "Unblock websites and bypass CAPTCHAs and 403",
+    "category": "Alternative",
+    "risk": "high",
+    "risk_reason": "Matches high-risk pattern: bypass.*captcha"
+  },
+  {
+    "name": "aluvia-web-unblock",
+    "url": "https://github.com/openclaw/skills/tree/main/skills/bertxtrella/aluvia-web-unblock/SKILL.md",
+    "description": "Unblock websites and bypass CAPTCHAs and 403 errors",
+    "category": "Alternative",
+    "risk": "high",
+    "risk_reason": "Matches high-risk pattern: bypass.*captcha"
+  },
+  {
+    "name": "vpn-rotate-skill",
+    "url": "https://github.com/openclaw/skills/tree/main/skills/acastellana/vpn-rotate-skill/SKILL.md",
+    "description": "Bypass API rate limits by rotating VPN servers.",
+    "category": "Alternative",
+    "risk": "medium",
+    "risk_reason": "Matches medium-risk pattern: rotate.*vpn"
+  }
+]
