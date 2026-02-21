@@ -1,0 +1,44 @@
+{
+  "total_analyzed": 8221,
+  "risk_counts": {
+    "critical": 0,
+    "high": 0,
+    "medium": 4,
+    "low": 8217
+  },
+  "suspicious_by_risk": {
+    "critical": 0,
+    "high": 0,
+    "medium": 4
+  },
+  "suspicious_skills": [
+    {
+      "path": "skills/b0tresch/b0tresch-stealth-browser",
+      "name": "b0tresch-stealth-browser",
+      "risk": "medium",
+      "reason": "Medium: stealth.*browser",
+      "url": "https://github.com/openclaw/skills/tree/main/skills/b0tresch/b0tresch-stealth-browser"
+    },
+    {
+      "path": "skills/kesslerio/camoufox-stealth-browser",
+      "name": "camoufox-stealth-browser",
+      "risk": "medium",
+      "reason": "Medium: stealth.*browser",
+      "url": "https://github.com/openclaw/skills/tree/main/skills/kesslerio/camoufox-stealth-browser"
+    },
+    {
+      "path": "skills/kesslerio/kesslerio-stealth-browser",
+      "name": "kesslerio-stealth-browser",
+      "risk": "medium",
+      "reason": "Medium: stealth.*browser",
+      "url": "https://github.com/openclaw/skills/tree/main/skills/kesslerio/kesslerio-stealth-browser"
+    },
+    {
+      "path": "skills/mayuqi-crypto/stealth-browser",
+      "name": "stealth-browser",
+      "risk": "medium",
+      "reason": "Medium: stealth.*browser",
+      "url": "https://github.com/openclaw/skills/tree/main/skills/mayuqi-crypto/stealth-browser"
+    }
+  ]
+}
